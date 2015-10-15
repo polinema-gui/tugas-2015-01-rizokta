@@ -1,0 +1,14 @@
+D:\C.D project visual studio\rizal\rizal\bin\Debug\rizal.exe.config
+D:\C.D project visual studio\rizal\rizal\bin\Debug\rizal.exe
+D:\C.D project visual studio\rizal\rizal\bin\Debug\rizal.pdb
+D:\C.D project visual studio\rizal\rizal\bin\Debug\rizal.xml
+D:\C.D project visual studio\rizal\rizal\obj\Debug\WindowsApplication1.Form1.resources
+D:\C.D project visual studio\rizal\rizal\obj\Debug\WindowsApplication1.Resources.resources
+D:\C.D project visual studio\rizal\rizal\obj\Debug\rizal.vbproj.GenerateResource.Cache
+D:\C.D project visual studio\rizal\rizal\obj\Debug\rizal.exe
+D:\C.D project visual studio\rizal\rizal\obj\Debug\rizal.xml
+D:\C.D project visual studio\rizal\rizal\obj\Debug\rizal.pdb
+D:\C.D project visual studio\MI 2D_1431140135_rizal\rizal\bin\Debug\rizal.exe.config
+D:\C.D project visual studio\MI 2D_1431140135_rizal\rizal\obj\Debug\rizal.exe
+D:\C.D project visual studio\MI 2D_1431140135_rizal\rizal\obj\Debug\rizal.xml
+D:\C.D project visual studio\MI 2D_1431140135_rizal\rizal\obj\Debug\rizal.pdb
